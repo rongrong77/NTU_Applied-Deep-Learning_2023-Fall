@@ -1,0 +1,8 @@
+torch >= 1.6
+numpy==1.23.1
+opencv-python
+segmentation-models-pytorch
+pytesseract
+matplotlib
+PyWavelets
+scipy
